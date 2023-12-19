@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a31e9ac3-680a-4350-a51a-aa12928b1755" name="Changes" comment="Здарова👋">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/allure.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/requestModels/AuthorizationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/requestModels/AuthorizationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/requestModels/UserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/requestModels/UserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/CreatedUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/CreatedUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/DataResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/DataResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/DelayedResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/DelayedResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/ResourceListResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/ResourceListResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/ResourceResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/ResourceResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/SuccessfulAuthorizationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/SuccessfulAuthorizationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/SupportResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/SupportResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/UnSuccessfulLoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/UnSuccessfulLoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/UnSuccessfulRegisterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/UnSuccessfulRegisterResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/UnknownDataResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/UnknownDataResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/UserListResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/UserListResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/UserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/UserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/СhangedUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/СhangedUserResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,15 +66,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;def&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -146,6 +161,9 @@
       <workItem from="1702997172586" duration="83000" />
       <workItem from="1703001115510" duration="6195000" />
       <workItem from="1703008907354" duration="216000" />
+      <workItem from="1703011285960" duration="3189000" />
+      <workItem from="1703015311838" duration="311000" />
+      <workItem from="1703016210422" duration="148000" />
     </task>
     <task id="LOCAL-00001" summary="Здарова👋">
       <option name="closed" value="true" />
@@ -163,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703007258724</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Здарова👋">
+      <option name="closed" value="true" />
+      <created>1703011494566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703011494566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +198,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Здарова" />
     <MESSAGE value="Здарова" />
+    <MESSAGE value="Здарова" />
     <option name="LAST_COMMIT_MESSAGE" value="Здарова" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

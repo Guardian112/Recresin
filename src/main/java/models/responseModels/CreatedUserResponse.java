@@ -12,16 +12,4 @@ public class CreatedUserResponse {
     private String job;
     private String id;
     private Date createdAt;
-
-    public String getName() { return name; }
-    public void setName(String value) { this.name = value; }
-
-    public String getJob() { return job; }
-    public void setJob(String value) { this.job = value; }
-
-    public String getID() { return id; }
-    public void setID(String value) { this.id = value; }
-
-    public Date getCreatedAt() { return createdAt; }
-    public void setCreatedAt(Date value) { this.createdAt = value; }
 }

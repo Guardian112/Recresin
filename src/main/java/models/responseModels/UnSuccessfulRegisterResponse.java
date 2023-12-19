@@ -8,7 +8,4 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class UnSuccessfulRegisterResponse {
     private String error;
-
-    public String getError() { return error; }
-    public void setError(String value) { this.error = value; }
 }

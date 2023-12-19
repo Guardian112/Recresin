@@ -10,10 +10,4 @@ import lombok.NoArgsConstructor;
 public class ResourceResponse {
     private UnknownDataResponse data;
     private SupportResponse support;
-
-    public UnknownDataResponse getData() { return data; }
-    public void setData(UnknownDataResponse value) { this.data = value; }
-
-    public SupportResponse getSupport() { return support; }
-    public void setSupport(SupportResponse value) { this.support = value; }
 }
