@@ -177,7 +177,7 @@ public class UserSteps {
                 .response().as(UnSuccessfulLoginResponse.class);
     }
     @Step ("Получить список пользователей с замедленной реакцией")
-    public UserListResponse getdelayedResponse (Integer statusCode) {
+    public UserListResponse getDelayedResponse (Integer statusCode) {
         return given()
                 .baseUri("https://reqres.in")
                 .get("/api/users?delay=3")

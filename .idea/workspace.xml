@@ -6,21 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a31e9ac3-680a-4350-a51a-aa12928b1755" name="Changes" comment="Здарова👋">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/requestModels/AuthorizationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/requestModels/AuthorizationRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/requestModels/UserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/requestModels/UserRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/CreatedUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/CreatedUserResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/DataResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/DataResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/DelayedResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/DelayedResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/ResourceListResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/ResourceListResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/ResourceResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/ResourceResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/SuccessfulAuthorizationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/SuccessfulAuthorizationResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/SupportResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/SupportResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/UnSuccessfulLoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/UnSuccessfulLoginResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/UnSuccessfulRegisterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/UnSuccessfulRegisterResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/UnknownDataResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/UnknownDataResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/UserListResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/UserListResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/UserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/UserResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/responseModels/СhangedUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/responseModels/СhangedUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/apiSteps/UserSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/apiSteps/UserSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +66,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.Example">
+  <component name="RunManager" selected="TestNG.Example.getDelayedResponse">
     <configuration name="Example" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Recresin" />
       <option name="PACKAGE_NAME" value="" />
@@ -91,11 +78,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example.getResourceListResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Example.getDelayedResponse" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Recresin" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Example" />
-      <option name="METHOD_NAME" value="getResourceListResponse" />
+      <option name="METHOD_NAME" value="getDelayedResponse" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -103,11 +90,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example.getdelayedResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Example.getResourceListResponse" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Recresin" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Example" />
-      <option name="METHOD_NAME" value="getdelayedResponse" />
+      <option name="METHOD_NAME" value="getResourceListResponse" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -141,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Example.getDelayedResponse" />
         <item itemvalue="TestNG.Example" />
         <item itemvalue="TestNG.Example.postSuccessfulRegister" />
         <item itemvalue="TestNG.Example.getResourceListResponse" />
         <item itemvalue="TestNG.Example.postUnsuccessfulLogin" />
-        <item itemvalue="TestNG.Example.getdelayedResponse" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +150,10 @@
       <workItem from="1703008907354" duration="216000" />
       <workItem from="1703011285960" duration="3189000" />
       <workItem from="1703015311838" duration="311000" />
-      <workItem from="1703016210422" duration="148000" />
+      <workItem from="1703016210422" duration="1716000" />
+      <workItem from="1703017979914" duration="761000" />
+      <workItem from="1703021565770" duration="217000" />
+      <workItem from="1703021872912" duration="1036000" />
     </task>
     <task id="LOCAL-00001" summary="Здарова👋">
       <option name="closed" value="true" />
@@ -189,13 +179,22 @@
       <option name="project" value="LOCAL" />
       <updated>1703011494566</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Здарова👋">
+      <option name="closed" value="true" />
+      <created>1703016426055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703016426055</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Здарова" />
     <MESSAGE value="Здарова" />
     <MESSAGE value="Здарова" />
     <MESSAGE value="Здарова" />

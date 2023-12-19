@@ -83,8 +83,8 @@ public class Example extends BaseTest {
         System.out.println(user);
     }
     @Test(description = "Замедленная реакция")
-    public void getdelayedResponse() {
-        UserListResponse user = USER_STEPS.getdelayedResponse(200);
+    public void getDelayedResponse() {
+        UserListResponse user = USER_STEPS.getDelayedResponse(200);
         System.out.println(user);
     }
 }
