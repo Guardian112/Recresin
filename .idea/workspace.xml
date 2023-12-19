@@ -64,7 +64,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.Example.postSuccessfulRegister">
+  <component name="RunManager" selected="TestNG.Example">
     <configuration name="Example" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Recresin" />
       <option name="PACKAGE_NAME" value="" />
@@ -126,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Example.postSuccessfulRegister" />
         <item itemvalue="TestNG.Example" />
+        <item itemvalue="TestNG.Example.postSuccessfulRegister" />
         <item itemvalue="TestNG.Example.getResourceListResponse" />
         <item itemvalue="TestNG.Example.postUnsuccessfulLogin" />
         <item itemvalue="TestNG.Example.getdelayedResponse" />
