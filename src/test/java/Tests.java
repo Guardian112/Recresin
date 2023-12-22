@@ -5,7 +5,7 @@ import models.responseModels.*;
 import models.requestModels.*;
 import org.testng.annotations.Test;
 
-public class Example extends BaseTest {
+public class Tests extends BaseTest {
     @Test(description = "Получение списка пользователей")
     public void getUserList() {
         UserListResponse user = USER_STEPS.getUserList(200);

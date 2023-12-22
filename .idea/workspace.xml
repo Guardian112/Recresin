@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a31e9ac3-680a-4350-a51a-aa12928b1755" name="Changes" comment="Здарова👋">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +66,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.Example">
-    <configuration name="Example" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Tests">
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Recresin" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -78,10 +78,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example.getDelayedResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Tests.getDelayedResponse" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Recresin" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
       <option name="METHOD_NAME" value="getDelayedResponse" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -90,10 +90,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example.getResourceListResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Tests.getResourceListResponse" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Recresin" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
       <option name="METHOD_NAME" value="getResourceListResponse" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -102,10 +102,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example.postSuccessfulRegister" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Tests.postSuccessfulRegister" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Recresin" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
       <option name="METHOD_NAME" value="postSuccessfulRegister" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -114,10 +114,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example.postUnsuccessfulLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Tests.postUnsuccessfulLogin" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Recresin" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
       <option name="METHOD_NAME" value="postUnsuccessfulLogin" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Example" />
-        <item itemvalue="TestNG.Example.getDelayedResponse" />
-        <item itemvalue="TestNG.Example.postSuccessfulRegister" />
-        <item itemvalue="TestNG.Example.getResourceListResponse" />
-        <item itemvalue="TestNG.Example.postUnsuccessfulLogin" />
+        <item itemvalue="TestNG.Tests" />
+        <item itemvalue="TestNG.Tests.getDelayedResponse" />
+        <item itemvalue="TestNG.Tests.postSuccessfulRegister" />
+        <item itemvalue="TestNG.Tests.getResourceListResponse" />
+        <item itemvalue="TestNG.Tests.postUnsuccessfulLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,8 @@
       <workItem from="1703236995635" duration="205000" />
       <workItem from="1703237424520" duration="436000" />
       <workItem from="1703238032707" duration="132000" />
-      <workItem from="1703238312530" duration="299000" />
+      <workItem from="1703238312530" duration="582000" />
+      <workItem from="1703239309360" duration="343000" />
     </task>
     <task id="LOCAL-00001" summary="Здарова👋">
       <option name="closed" value="true" />
@@ -224,13 +225,22 @@
       <option name="project" value="LOCAL" />
       <updated>1703237665996</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Здарова👋">
+      <option name="closed" value="true" />
+      <created>1703238785022</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703238785022</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Здарова" />
     <MESSAGE value="Здарова" />
     <MESSAGE value="Здарова" />
     <MESSAGE value="Здарова" />
