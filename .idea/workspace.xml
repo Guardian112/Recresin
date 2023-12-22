@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a31e9ac3-680a-4350-a51a-aa12928b1755" name="Changes" comment="Здарова👋">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/apiSteps/UserSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/apiSteps/UserSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +52,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/IdeaProjects/Recresin&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -66,7 +65,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.Example.getDelayedResponse">
+  <component name="RunManager" selected="TestNG.Example">
     <configuration name="Example" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Recresin" />
       <option name="PACKAGE_NAME" value="" />
@@ -128,8 +127,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Example.getDelayedResponse" />
         <item itemvalue="TestNG.Example" />
+        <item itemvalue="TestNG.Example.getDelayedResponse" />
         <item itemvalue="TestNG.Example.postSuccessfulRegister" />
         <item itemvalue="TestNG.Example.getResourceListResponse" />
         <item itemvalue="TestNG.Example.postUnsuccessfulLogin" />
@@ -153,7 +152,25 @@
       <workItem from="1703016210422" duration="1716000" />
       <workItem from="1703017979914" duration="761000" />
       <workItem from="1703021565770" duration="217000" />
-      <workItem from="1703021872912" duration="1036000" />
+      <workItem from="1703021872912" duration="1097000" />
+      <workItem from="1703023059676" duration="111000" />
+      <workItem from="1703023228231" duration="61000" />
+      <workItem from="1703058711251" duration="239000" />
+      <workItem from="1703059088266" duration="3000" />
+      <workItem from="1703059096417" duration="4000" />
+      <workItem from="1703059135917" duration="5000" />
+      <workItem from="1703059236167" duration="5000" />
+      <workItem from="1703059346894" duration="9000" />
+      <workItem from="1703059533791" duration="7000" />
+      <workItem from="1703063122098" duration="33000" />
+      <workItem from="1703072048283" duration="1036000" />
+      <workItem from="1703073502623" duration="260000" />
+      <workItem from="1703076769549" duration="13000" />
+      <workItem from="1703144700259" duration="30000" />
+      <workItem from="1703149448229" duration="4000" />
+      <workItem from="1703153793284" duration="91000" />
+      <workItem from="1703181931581" duration="344000" />
+      <workItem from="1703236995635" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary="Здарова👋">
       <option name="closed" value="true" />
@@ -187,13 +204,22 @@
       <option name="project" value="LOCAL" />
       <updated>1703016426055</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Здарова👋">
+      <option name="closed" value="true" />
+      <created>1703022960339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703022960339</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Здарова" />
     <MESSAGE value="Здарова" />
     <MESSAGE value="Здарова" />
     <MESSAGE value="Здарова" />
